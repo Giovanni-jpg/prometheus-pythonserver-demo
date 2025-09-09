@@ -1,6 +1,6 @@
 # Prometheus Playground with Docker
 
-This project sets up a small monitoring environment using **Prometheus** and **Node Exporter** containers, along with a simple **Flask server** exposing metrics via `prometheus_flask_exporter`.
+Setting up a small monitoring environment using **Prometheus** and **Node Exporter** containers, along with a simple **Python server** exposing metrics via `prometheus_flask_exporter`. Built that project overnight to understand the basics of prometheus setup and use.
 
 You’ll be able to:
 - Run multiple `node-exporter` containers.
